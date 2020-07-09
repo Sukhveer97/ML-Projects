@@ -4,9 +4,9 @@
 
 
 ## Table of contents 
-* [General info](general-info)
-* [Technologies](technologies)
-* [Data](data)
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Data](#data)
 
 ## General info 
 Using the California census with metrics such as population, median income, ocean proximity and more for each district within California, the goal was to be able to predict the median housing price in any district.  
