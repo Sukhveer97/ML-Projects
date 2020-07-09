@@ -6,6 +6,12 @@
 ## Table of contents 
 * [General info](general-info)
 * [Technologies](technologies)
-* [Setup](setup)
+* [Data](data)
 
+## General info 
+Using the California census with metrics such as population, median income, ocean proximity and more for each district within California, the goal was to be able to predict the median housing price in any district.     
 
+## Technologies 
+Python 3.6 on Google Colab connected to Python 3 Google Compute Engine Backend 
+
+## Data 
