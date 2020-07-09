@@ -6,3 +6,13 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Data](#data)
+
+## General info 
+70,000 small images of digits handwritten by High School students and employees of the US Census Bureau to accurately predict the digit the image represents.  
+
+## Technologies 
+Python 3.6 on Google Colab connected to Python 3 Google Compute Engine Backend
+
+## Data
+Dataset gathered using Scikit-Learn function, from openml I obtained the MNIST dataset(mnist_784). 
+![Screenshot 2020-07-09 at 9 20 24 pm](https://user-images.githubusercontent.com/48221355/87087115-6c52c480-c22a-11ea-9846-b5b7abcc24de.png)
