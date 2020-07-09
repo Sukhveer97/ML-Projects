@@ -18,5 +18,5 @@ Below is a screenshot of what format the data is in the csv file
 Python 3.6 on Google Colab connected to Python 3 Google Compute Engine Backend 
 
 ## Data 
-The dataset was gathered from a respository on GitHub (https://github.com/ageron/handson-ml2/tree/master/datasets/housing) as csv file, it was downloaded into my hardrive and then uploaded into my Google Colab notebook
+The dataset was gathered from a respository on GitHub (https://github.com/ageron/handson-ml2/tree/master/datasets/housing) as a csv file, it was downloaded onto my hardrive and then uploaded into my Google Colab notebook
 <img width="1440" alt="Screenshot 2020-07-09 at 7 12 26 pm" src="https://user-images.githubusercontent.com/48221355/87075498-5b00bc80-c218-11ea-99f1-07ceb6cf9584.png">
