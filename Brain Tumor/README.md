@@ -20,6 +20,6 @@ Below is a screenshot of what format the data is in the csv file
 Python 3.6 on Jupyter Notebook 
 
 ## Data
-The dataset was gathered from Kaggle (https://www.kaggle.com/jakeshbohaju/brain-tumor), downloaded and uploaded to Microsoft Azure Notebooks as a csv file. 
+The dataset was gathered from [Kaggle](https://www.kaggle.com/jakeshbohaju/brain-tumor), downloaded and uploaded to Microsoft Azure Notebooks as a csv file. 
 * File size: 465KB
 
