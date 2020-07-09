@@ -4,7 +4,7 @@
 ## Table of contents 
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Model/Algorithm](#model-algorithm)
+* [Model/Algorithms](#model-algorithms)
 * [Data](#data)
 
 ## General info 
@@ -12,6 +12,11 @@
 
 ## Technologies 
 Python 3.6 on Google Colab connected to Python 3 Google Compute Engine Backend
+
+## Model/Algorithms
+* Multivariate classification problem 
+* CNN (VGG16 pre trained model)
+* Data Augmentation. 
 
 ## Data
 Dataset from Kaggle (https://www.kaggle.com/alxmamaev/flowers-recognition), downloaded and uploaded to my Google Drive, it was then mounted in Google Colab to be accessed. 
