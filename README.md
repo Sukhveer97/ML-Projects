@@ -6,9 +6,10 @@
 Welcome! This repository is full of my current machine learning projects. 
 My programming language of choice is primarily Python, I work in IPython notebooks such as Google Colab and Jupyter Notebook. 
 
-* What to expect in this repository:
-  - Image classification 
-  - CNN
+* What kind of content to expect in this repository:
+  - Classification problems 
+  - CNN's
+  - RNN's 
   - Regression problems 
   - Time-series
   - Prediction algorithms 
