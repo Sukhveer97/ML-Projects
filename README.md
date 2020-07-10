@@ -6,7 +6,7 @@
 Welcome! This repository is full of my current machine learning projects. 
 
 * How to reach me: 
-  sukhveersinghceo@googlemail.com 📧
-  @SukhveerDhadwal (Twitter)
+  - sukhveersinghceo@googlemail.com 📧
+  - @SukhveerDhadwal (Twitter)
 * 
 
