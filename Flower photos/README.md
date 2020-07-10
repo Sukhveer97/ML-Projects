@@ -14,7 +14,7 @@
 Python 3.6 on Google Colab connected to Python 3 Google Compute Engine Backend
 
 ## Model and Algorithms
-* Multivariate classification problem 
+* Multivariate image classification problem 
 * CNN (VGG16 pre trained model)
 * Data Augmentation. 
 
