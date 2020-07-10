@@ -4,7 +4,7 @@
 ## Table of contents 
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Model/Algorithms](#model-</em>-algorithms)
+* [Model and Algorithms](#model-and-algorithms)
 * [Data](#data)
 
 ## General info 
@@ -13,7 +13,7 @@
 ## Technologies 
 Python 3.6 on Google Colab connected to Python 3 Google Compute Engine Backend
 
-## Model/Algorithms
+## Model and Algorithms
 * Multivariate classification problem 
 * CNN (VGG16 pre trained model)
 * Data Augmentation. 
