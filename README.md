@@ -13,6 +13,7 @@ My programming language of choice is primarily Python, I work in IPython noteboo
   - Regression problems 
   - Time-series
   - Prediction algorithms 
+
 And many more to be added! 
 
 * How to reach me: 
