@@ -6,6 +6,7 @@
 ## Table of contents 
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Model and Algorithms](#model-and-algorithms)
 * [Data](#data)
 
 ## General info 
@@ -16,6 +17,15 @@ Below is a screenshot of what format the data is in the csv file
 
 ## Technologies 
 Python 3.6 on Google Colab connected to Python 3 Google Compute Engine Backend 
+
+## Model and Algorithms
+* Univariate regression problem 
+* Correlation matrix and Scatter matrix 
+* Linear Regression 
+* Transformation Pipelines 
+* Decision Tree
+* Random Forest
+* Grid Search.
 
 ## Data 
 The dataset was gathered from a respository on GitHub (https://github.com/ageron/handson-ml2/tree/master/datasets/housing) as a csv file, it was downloaded onto my hardrive and then uploaded into my Google Colab notebook
