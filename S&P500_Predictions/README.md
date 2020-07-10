@@ -1,5 +1,5 @@
 # S&P 500 Stock Predictions
-
+![ParallelTiredBarasinga-size_restricted](https://user-images.githubusercontent.com/48221355/87162798-57c00c00-c2be-11ea-9821-136f1a84b911.gif)
 ## Table of contents 
 * [General info](#general-info)
 * [Technologies](#technologies)
