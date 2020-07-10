@@ -4,7 +4,7 @@
 ## Table of contents 
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Model/Algorithms](#model</em>algorithms)
+* [Model/Algorithms](#model-</em>-algorithms)
 * [Data](#data)
 
 ## General info 
