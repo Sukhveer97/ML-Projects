@@ -5,7 +5,7 @@
 ## Table of contents 
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Model & Algorithms](#model-&-algorithms)
+* [Model and Algorithms](#model-and-algorithms)
 * [Data](#data)
 
 ## General info 
@@ -14,7 +14,7 @@
 ## Technologies 
 Python 3.6 on Google Colab connected to Python 3 Google Compute Engine Backend
 
-## Model & Algorithms
+## Model and Algorithms
 *  Image classification problem 
 * SGD(Stochastic Gradient Descent)
 * Random Forest Classifier
