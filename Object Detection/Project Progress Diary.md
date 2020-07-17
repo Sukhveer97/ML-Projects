@@ -1,4 +1,4 @@
-# Object Detection Project Diary
+# Object Detection Project Progress Diary
 
 Welcome! This portion of the project is my progress diary which will be updated daily until the finished product. The aim of this is to show the steps taken to create such a project, the research and time put into it. 
 
