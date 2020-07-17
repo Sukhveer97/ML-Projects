@@ -1,4 +1,7 @@
 # Object Detection Project Diary
+
+Welcome! This portion of the project is my progress diary which will be updated daily until the finished product. The aim of this is to show the steps taken to create such a project, the research and time put into it. 
+
 In this project I will be showcasing my app that I created for object detection for android. 
 
 The aim of this project it to achieve an application that will use your phones camera and detect several objects in live time, I have also thought about adding a feature that will allow the user to import their own images/videos and have the app detect objects in them too. 
