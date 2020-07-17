@@ -5,9 +5,13 @@ The aim of this project it to achieve an application that will use your phones c
 
 I will be updating this file like a project diary as I work on this. 
 
- * Project started - 16/07/20
-   - Looking into YOLO(You Only Look Once) which is a type of object detection CNN 
-
+* Project started - 16/7/20
+  - Looking into YOLO(You Only Look Once) which is a type of object detection CNN 
+  - Tensorflow Lite read up
+* Research - 17/7/20
+  - Running inference with Tensorflow Lite, allowing my model to work in Android Studio 
+  - How to convert my ML model into model.tflite
+ 
 
 
 
