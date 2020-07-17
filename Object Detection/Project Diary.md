@@ -1,8 +1,5 @@
 # Object Detection Project Diary
 
-![1*NLnnf_M4Nlm4p1GAWrWUCQ](https://user-images.githubusercontent.com/48221355/87820166-806b7700-c865-11ea-84e9-45f6c6e39b70.gif)
-
-
 Welcome! This portion of the project is my progress diary which will be updated daily until the finished product. The aim of this is to show the steps taken to create such a project, the research and time put into it. 
 
 In this project I will be showcasing my app that I created for object detection for android. 
