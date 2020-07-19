@@ -14,6 +14,10 @@ I will be updating this file like a project diary as I work through this.
 * Research - 17/7/20
   - Running inference with Tensorflow Lite, allowing my model to work in Android Studio 
   - How to convert my ML model into model.tflite
+* Coding begins - 18/8/20
+  - Decided to use the COCO (Common Object in Context) dataset for object detection
+  - I will be using Google Colab as my IPython notebook
+* 
  
 
 
