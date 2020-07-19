@@ -17,6 +17,8 @@ I will be updating this file like a project diary as I work through this.
   - How to convert my ML model into model.tflite 
 * Preliminary object detection on android - 19/7/20
   - I first used the pre trained model available on the Tensorflow Lite website on my Android phone, this allowed me to see the backend in Android Studio.
+  - I also built that TensorFlow Lite object detection app into an apk so it is saved as an application on my phone. 
+
  
 
 
