@@ -8,16 +8,15 @@ The aim of this project it to achieve an application that will use your phones c
 
 I will be updating this file like a project diary as I work through this. 
 
-* Project started - 16/7/20
-  - Looking into YOLO(You Only Look Once) which is a type of object detection CNN 
+* Project started - 17/7/20
+  - Looking into YOLO(You Only Look Once) which is a type of object detection CNN and other models
   - Tensorflow Lite read up
-* Research - 17/7/20
+  - Creating a calendar to do list for this project
+* Research - 18/7/20
   - Running inference with Tensorflow Lite, allowing my model to work in Android Studio 
-  - How to convert my ML model into model.tflite
-* Coding begins - 18/8/20
-  - Decided to use the COCO (Common Object in Context) dataset for object detection
-  - I will be using Google Colab as my IPython notebook
-* 
+  - How to convert my ML model into model.tflite 
+* Preliminary object detection on android - 19/7/20
+  - I first used the pre trained model available on the Tensorflow Lite website on my Android phone, this allowed me to see the backend in Android Studio.
  
 
 
