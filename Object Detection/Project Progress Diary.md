@@ -22,7 +22,9 @@ I will be updating this file like a project diary as I work through this.
   - Installed the Tensorflow Object Detection API, this will be used when I have trained my own model and converted it into a .tflite format 
    - Looked at the commercial applications for object detection and the requirements 
   - Decided to use try MobileNet first and then will work with YOLO. 
-* 21/7/20
+* 22/7/20
+  - Used YOLOv4 in the Cloud (Google Colab) with the use of GPU and CUDA(10.1) and was able to use object detection using the coco dataset to detect objects in both images and videos uploaded into the notebook.
+  - Look into building and training a custom object detector (most likely in the Cloud too) 
   
 On a side note I have also decided to do 2/3 small projects, so I will be alternating the days between these projects.
  
