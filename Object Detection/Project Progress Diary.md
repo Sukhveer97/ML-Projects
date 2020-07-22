@@ -22,6 +22,7 @@ I will be updating this file like a project diary as I work through this.
   - Installed the Tensorflow Object Detection API, this will be used when I have trained my own model and converted it into a .tflite format 
    - Looked at the commercial applications for object detection and the requirements 
   - Decided to use try MobileNet first and then will work with YOLO. 
+* 21/7/20
   
 On a side note I have also decided to do 2/3 small projects, so I will be alternating the days between these projects.
  
