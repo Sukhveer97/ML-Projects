@@ -13,6 +13,7 @@ For this project you will be able to use images and videos for object detection 
 ## Technologies 
 * Python 3.6 on Google Colab connected to Python 3 Google Compute Engine Backend (GPU)
 * CUDA (10.1)
+
 The screenshot below show how to have GPU (and OPENCV) enabled, and to verify CUDA
 ![Screenshot 2020-07-24 at 4 29 10 pm](https://user-images.githubusercontent.com/48221355/88408139-0be78980-cdcb-11ea-81ed-81d9244c6147.png)
 
