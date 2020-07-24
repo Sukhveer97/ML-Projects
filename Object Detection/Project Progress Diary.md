@@ -27,6 +27,7 @@ I will be updating this file like a project diary as I work through this.
   - Look into building and training a custom object detector (most likely in the Cloud too) 
 * 23/7/20
   - Fine tuned the pre trained YOLOv4 model, will be uploading soon to GitHub for people to view and use. 
+  
 On a side note I have also decided to do 2/3 small projects, so I will be alternating the days between these projects.
  
 
