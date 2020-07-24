@@ -6,6 +6,7 @@
 * [Technologies](#technologies)
 * [Model and Algorithms](#model-and-algorithms)
 * [Data](#data)
+* [Results](#results)
 
 ## General Info 
 For this project you will be able to use images and videos for object detection and tracking, I use the pre-trained YOLOv4 and the COCO dataset and the Darknet framework for this. YOLOv4 is much faster and accurate than its previous versions. You will be able to upload your own images/videos to this code, I am currently working on building this into a ML application/web-based product for commercial usability. 
@@ -31,6 +32,7 @@ The screenshot below shows the downloading of our YOLOv4 weights
 You can get the Darknet framework from GitHub, the original framework is in C, an api is used to make it into Python. 
 ![Screenshot 2020-07-24 at 4 26 56 pm](https://user-images.githubusercontent.com/48221355/88407896-b1e6c400-cdca-11ea-8f02-2fa8acfd6a09.png)
 
-
-
+## Results 
+Because Google Colab has issues showing videos in the notebook, you have to download the file, so below is the result of my test.mp4 file that I used in the notebook. 
+![testresults(comp)](https://user-images.githubusercontent.com/48221355/88409568-055a1180-cdcd-11ea-8a98-30eb6ba81991.gif)
 
