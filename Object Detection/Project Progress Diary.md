@@ -25,7 +25,8 @@ I will be updating this file like a project diary as I work through this.
 * 22/7/20
   - Used YOLOv4 in the Cloud (Google Colab) with the use of GPU and CUDA(10.1) and was able to use object detection using the coco dataset to detect objects in both images and videos uploaded into the notebook.
   - Look into building and training a custom object detector (most likely in the Cloud too) 
-  
+* 23/7/20
+  - Fine tuned the pre trained YOLOv4 model, will be uploading soon to GitHub for people to view and use. 
 On a side note I have also decided to do 2/3 small projects, so I will be alternating the days between these projects.
  
 
