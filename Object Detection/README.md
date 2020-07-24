@@ -9,7 +9,7 @@
 * [Results](#results)
 
 ## General Info 
-For this project you will be able to use images and videos for object detection and tracking, I use the pre-trained YOLOv4 and the COCO dataset and the Darknet framework for this. YOLOv4 is much faster and accurate than its previous versions. You will be able to upload your own images/videos to this code, I am currently working on building this into a ML application/web-based product for commercial usability. 
+For this project you will be able to use images and videos for object detection and tracking, I use the pre-trained YOLOv4 and the COCO dataset with the Darknet framework for this. YOLOv4 is much faster and accurate than its previous versions. You will also be able to upload your own images/videos with this code, I am currently working on building this into a ML application/web-based product for easier commercial usability. 
 
 ## Technologies 
 * Python 3.6 on Google Colab connected to Python 3 Google Compute Engine Backend (GPU)
