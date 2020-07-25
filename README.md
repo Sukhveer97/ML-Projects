@@ -20,5 +20,6 @@ And many more to be added!
 * How to reach me: 
   - sukhveersinghceo@googlemail.com 📧
   - @SukhveerDhadwal [(Twitter)](https://twitter.com/SukhveerDhadwal)
+  - [(LinkedIn)](https://www.linkedin.com/in/sukhveer-singh-dhadwal/)
 
 
