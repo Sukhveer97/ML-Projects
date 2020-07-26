@@ -8,6 +8,7 @@ My programming language of choice is primarily Python, I work in IPython noteboo
 
 * What kind of content to expect in this repository:
   - Classification problems 
+  - NLP
   - CNN's
   - RNN's 
   - Regression problems 
