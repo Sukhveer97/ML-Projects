@@ -47,4 +47,5 @@ Using NLP (Natural Language Processing) with a Twitter API to build a sentiment 
 
 ## Results
 * To run this just 'Run Python File In Terminal' 
+
 ![1ezgif com-video-to-gif](https://user-images.githubusercontent.com/48221355/88976567-2ed6d980-d2b4-11ea-8965-450953c4dc3b.gif)
