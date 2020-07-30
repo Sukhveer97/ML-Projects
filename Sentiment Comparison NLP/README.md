@@ -11,3 +11,15 @@ This is a very small and quick introduction piece I looked into when starting NL
 * [Data](#data)
 * [Results](#results)
 
+## General Info 
+Using NLP (Natural Language Processing) with a Twitter API to build a sentiment comparison program using tweets in real time. 
+
+## Technologies 
+* Python 3
+* Visual Studio Code
+
+## Model and Algorithms 
+*
+
+
+
