@@ -19,7 +19,14 @@ Using NLP (Natural Language Processing) with a Twitter API to build a sentiment 
 * Visual Studio Code
 
 ## Model and Algorithms 
-*
+* NLP 
+* Twitter API (Tweepy)
+* TextBlob 
+* Sentiment comparison 
+
+## Data 
+* First we need to create a virtual environment in VS Code 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/48221355/88970573-8f611900-d2aa-11ea-9aed-e8ad55dfff83.gif)
 
 
-
+* We then need to create a .py file, you can call this whatever you would like (for me it was 'world_sentiment_.py') 
