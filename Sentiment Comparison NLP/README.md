@@ -29,4 +29,12 @@ Using NLP (Natural Language Processing) with a Twitter API to build a sentiment 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/48221355/88970573-8f611900-d2aa-11ea-9aed-e8ad55dfff83.gif)
 
 
-* We then need to create a .py file, you can call this whatever you would like (for me it was 'world_sentiment_.py') 
+* We then need to create a .py file, you can call this whatever you would like (for me it was 'world_sentiment_.py') and import the necessary libraries and modules 
+<img width="521" alt="Screenshot 2020-07-30 at 9 23 27 pm" src="https://user-images.githubusercontent.com/48221355/88970936-18785000-d2ab-11ea-9cdf-996cbfa1f661.png">
+
+* View the world_sentiment_.py file to see the rest of the code
+
+* We now need to create and sign up for a [Twitter Developers](https://developer.twitter.com/) account
+
+* Now create another .py file called 'secrets.py', in this you will be storing your Twitter
+
