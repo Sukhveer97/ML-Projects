@@ -37,5 +37,7 @@ Using NLP (Natural Language Processing) with a Twitter API to build a sentiment 
 
 * We now need to create and sign up for a [Twitter Developers](https://developer.twitter.com/) account. Follow the steps to do this and go to your dashboard when done. Click on 'Keys and toekns', you will then be able to generate your API Key and API key secret (keep these private and to yourselves only). 
 
-* Now create another .py file called 'secrets.py', in this you will be storing your Twitter
+* Now create another .py file called 'secrets.py', in this you will be storing your API Key and API key secret. 
+<img width="277" alt="Screenshot 2020-07-30 at 9 44 24 pm" src="https://user-images.githubusercontent.com/48221355/88972784-fd5b0f80-d2ad-11ea-8bba-57db941217ba.png">
+
 
