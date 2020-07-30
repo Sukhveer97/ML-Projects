@@ -30,7 +30,7 @@ Using NLP (Natural Language Processing) with a Twitter API to build a sentiment 
 
 
 * We then need to create a .py file, you can call this whatever you would like (for me it was 'world_sentiment_.py') and import the necessary libraries and modules 
-* If you come across an issue importing these modules then you may need to use the terminal to then 'pip install'. 
+* If you come across an issue importing these modules then you may need to use the terminal to then 'pip install' them (e.g pip install tweepy). 
 <img width="521" alt="Screenshot 2020-07-30 at 9 23 27 pm" src="https://user-images.githubusercontent.com/48221355/88970936-18785000-d2ab-11ea-9cdf-996cbfa1f661.png">
 
 
