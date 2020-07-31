@@ -4,7 +4,7 @@
 
 
 Welcome! This repository is full of my current machine learning projects. 
-My programming language of choice is primarily Python, I work in IPython notebooks such as Google Colab and Jupyter Notebook. 
+My programming language of choice is primarily Python, I work in IPython notebooks such as Google Colab and Jupyter Notebook but I also use Visual Studio Code as one of my code editors. 
 
 * What kind of content to expect in this repository:
   - Classification problems 
