@@ -54,3 +54,11 @@ With this project I was able to create sentiment analysis on Twitter tweets, It 
 ![Screenshot 2020-08-01 at 8 51 58 pm](https://user-images.githubusercontent.com/48221355/89109443-1a701980-d439-11ea-84c0-670316df10bf.png)
 
 * The final step is to create the visualisations of the analysis, which is optional but I believe it will give us a better understanding. 
+* For this we create a seperate .py file, I named it as graph.py and below are the required imports
+
+
+<img width="429" alt="Screenshot 2020-08-01 at 10 24 20 pm" src="https://user-images.githubusercontent.com/48221355/89110751-cfa8ce80-d445-11ea-96d5-5807faea3c89.png">
+
+
+* 
+
