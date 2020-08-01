@@ -30,5 +30,12 @@ With this project I was able to create sentiment analysis on Twitter tweets, It 
 * NuSVC
 
 ## Data 
+* I first create the file sentiment_mod.py which includes the model/algorithms and classifiers for this NLP using the NLTK (Natural Language Toolkit). Please view the file uploaded for the code. I first created this file in Google Colab then decided to download it as a .py file into a new environment on Visual Studio Code. 
+* Below is the imports that are required 
+![Screenshot 2020-08-01 at 8 18 59 pm](https://user-images.githubusercontent.com/48221355/89108896-73897e80-d434-11ea-940f-29178bd887f8.png)
+
+
+
+* After this 
 
 
