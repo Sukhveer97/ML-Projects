@@ -38,6 +38,7 @@ With this project I was able to create sentiment analysis on Twitter tweets, It 
 
 
 
-* After this 
+* After this we need to create the file that will get the tweets using the Twitter API, we will also be importing the sentiment_mod.py file into this too. Please view the file upladed for the code. 
+* We also need to create and sign up for a [Twitter Developers](https://developer.twitter.com/) account. Follow the steps to do this and go to your dashboard when done. Click on 'Keys and tokens', you will then be able to generate your API key and API key secret (keep these private and to yourselves only).
 
 
