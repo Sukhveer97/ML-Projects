@@ -59,6 +59,18 @@ With this project I was able to create sentiment analysis on Twitter tweets, It 
 
 <img width="429" alt="Screenshot 2020-08-01 at 10 24 20 pm" src="https://user-images.githubusercontent.com/48221355/89110751-cfa8ce80-d445-11ea-96d5-5807faea3c89.png">
 
+* View the uploaded file graph.py for this code. 
 
-* 
+## Results 
+We can run the twitter.py file in VS Code and the graph.py in our Terminal(cmd) outside of VS Code.
+
+* Below is what will show with from the twitter.py file. With each tweet it will show only those with a >=80% confidence for negative and positive (e.g pos 0.9 neg 1). 1 being 100% confident. You can change this threshold in the twitter.py file. 
+
+![2ezgif com-video-to-gif](https://user-images.githubusercontent.com/48221355/89111262-8bb8c800-d44b-11ea-987e-a5ae7a0bfc74.gif)
+
+* Below is what the graph will look like whilst running the sentiment analysis. 
+
+![3ezgif com-video-to-gif](https://user-images.githubusercontent.com/48221355/89111415-61680a00-d44d-11ea-8e24-be7edd1302d4.gif)
+
+
 
