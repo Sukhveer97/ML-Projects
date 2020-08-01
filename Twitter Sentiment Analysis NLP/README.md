@@ -68,7 +68,7 @@ We can run the twitter.py file in VS Code and the graph.py in our Terminal(cmd) 
 
 ![2ezgif com-video-to-gif](https://user-images.githubusercontent.com/48221355/89111262-8bb8c800-d44b-11ea-987e-a5ae7a0bfc74.gif)
 
-* Below is what the graph will look like whilst running the sentiment analysis. 
+* Below is the visualisation of the sentiment analysis data.  
 
 ![3ezgif com-video-to-gif](https://user-images.githubusercontent.com/48221355/89111415-61680a00-d44d-11ea-8e24-be7edd1302d4.gif)
 
