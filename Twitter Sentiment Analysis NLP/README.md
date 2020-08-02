@@ -62,7 +62,7 @@ With this project I was able to create sentiment analysis on Twitter tweets, It 
 * View the uploaded file graph.py for this code. 
 
 ## Results 
-Please know that the execution of thise code will run faster dependent on your GPU power, for me it took from 3-6 minutes to run and will vary for others. 
+Please know that the execution time of this code is dependent on your GPU, for me it took from 3-6 minutes to run and will vary for others. 
 
 We can run the twitter.py file in VS Code and the graph.py in our Terminal(cmd) outside of VS Code.
 
