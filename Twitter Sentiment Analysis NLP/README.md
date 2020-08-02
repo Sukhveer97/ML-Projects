@@ -63,6 +63,7 @@ With this project I was able to create sentiment analysis on Twitter tweets, It 
 
 ## Results 
 We can run the twitter.py file in VS Code and the graph.py in our Terminal(cmd) outside of VS Code.
+Please also know that the execution of thise code will run faster dependent on your GPU power, for me it took from 3-6 minutes to run and will vary for others. 
 
 * Below is what will show with from the twitter.py file. With each tweet it will show only those with a >=80% confidence for negative and positive (e.g pos 0.9, neg 1). 1 being 100% confident. You can change this threshold in the twitter.py file. 
 
