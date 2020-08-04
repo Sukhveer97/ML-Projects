@@ -23,7 +23,7 @@ With this project I was able to create sentiment analysis on Twitter tweets, It 
 * Twitter API (Tweepy)
 * MultinomialNB
 * BernoulliNB
-* LogisticRegression
+* Logistic Regression
 * SGDClassifier
 * SVC
 * LinearSVC
